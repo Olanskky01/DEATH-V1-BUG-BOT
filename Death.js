@@ -84,8 +84,8 @@ module.exports = async (dikabot, m, store) => {
     }
     const v55 = moment.tz("Lagos/Nigeria").format("dddd, DD MMMM YYYY");
     const v56 = moment.tz("Lagos/Nigeria").format("HH : mm :ss");
-    const v57 = moment.tz("Asia/Ja").format("HH : mm : ss");
-    const v58 = moment.tz("Asia/Makassar").format("HH : mm : ss");
+    const v57 = moment.tz("Lagos/Nigeria").format("HH : mm : ss");
+    const v58 = moment.tz("Lagos/Nigeria").format("HH : mm : ss");
     const v59 = moment().tz("Lagos/Nigeria").format("HH:mm:ss");
     if (v59 < "23:59:00") {
       var v66 = "Good morning 🏙️";
