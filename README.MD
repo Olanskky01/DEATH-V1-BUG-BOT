@@ -1,4 +1,6 @@
-##A High Speed/ Powerful WhatsApp Bug Bot Made By Ølâñßkky🥀🫀 and Immanuelシ︎🌑🌕✝️ boasts an array of cutting-edge features.
+<br>
+
+## A High Speed/ Powerful WhatsApp Bug Bot Made By Ølâñßkky🥀🫀 and Immanuelシ︎🌑🌕✝️ boasts an array of cutting-edge features.
 
 Key Functionalities:
 Indefinite WhatsApp crash initiation
