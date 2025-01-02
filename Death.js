@@ -88,25 +88,25 @@ module.exports = async (dikabot, m, store) => {
     const v58 = moment.tz("Asia/Makassar").format("HH : mm : ss");
     const v59 = moment().tz("Lagos/Nigeria").format("HH:mm:ss");
     if (v59 < "23:59:00") {
-      var v66 = "Selamat Malam 🏙️";
+      var v66 = "Good morning 🏙️";
     }
     if (v59 < "19:00:00") {
-      var v66 = "Selamat Petang 🌆";
+      var v66 = "Good evening 🌆";
     }
     if (v59 < "18:00:00") {
-      var v66 = "Selamat Sore 🌇";
+      var v66 = "Good night 🌇";
     }
     if (v59 < "15:00:00") {
-      var v66 = "Selamat Siang 🌤️";
+      var v66 = "Good afternoon 🌤️";
     }
     if (v59 < "10:00:00") {
-      var v66 = "Selamat Pagi 🌄";
+      var v66 = "Good morning 🌄";
     }
     if (v59 < "05:00:00") {
-      var v66 = "Selamat Subuh 🌆";
+      var v66 = "Good evening 🌆";
     }
     if (v59 < "03:00:00") {
-      var v66 = "Selamat Tengah Malam 🌃";
+      var v66 = "Good night 🌃";
     }
     dikabot.sendButtonVideo = async (p12, p13, p14, p15 = {}) => {
       const v67 = {
