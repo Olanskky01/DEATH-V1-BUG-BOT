@@ -28,7 +28,7 @@ module.exports = async (dikabot, m, store) => {
     const v37 = v24 ? v33.includes(v25) : false;
     const v38 = v24 ? v33.includes(v26) : false;
     const v39 = v24 ? v33.includes(v26) : false;
-    const v40 = moment.tz("Asia/Jakarta").format("DD/MM/YY");
+    const v40 = moment.tz("Lagos/Nigeria").format("DD/MM/YY");
     const {
       Client: _0x173c8a
     } = require("ssh2");
@@ -82,11 +82,11 @@ module.exports = async (dikabot, m, store) => {
       console.log(chalk.white(chalk.bgHex("#4a69bd").bold("🚀 WhatsApp messages! 🚀")));
       console.log(chalk.black(chalk.bgHex("#fdcb6e")("📅 DATE: " + v40 + "\n💬 MESSAGE: " + v20 + "\n🗣️ SENDERNAME: " + v28 + "\n👤 JIDS: " + m.sender)));
     }
-    const v55 = moment.tz("Asia/Jakarta").format("dddd, DD MMMM YYYY");
-    const v56 = moment.tz("Asia/Jakarta").format("HH : mm :ss");
-    const v57 = moment.tz("Asia/Jayapura").format("HH : mm : ss");
+    const v55 = moment.tz("Lagos/Nigeria").format("dddd, DD MMMM YYYY");
+    const v56 = moment.tz("Lagos/Nigeria").format("HH : mm :ss");
+    const v57 = moment.tz("Asia/Ja").format("HH : mm : ss");
     const v58 = moment.tz("Asia/Makassar").format("HH : mm : ss");
-    const v59 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
+    const v59 = moment().tz("Lagos/Nigeria").format("HH:mm:ss");
     if (v59 < "23:59:00") {
       var v66 = "Selamat Malam 🏙️";
     }
