@@ -1391,7 +1391,7 @@ module.exports = async (dikabot, m, store) => {
  ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}
 
  ᴛʜɪs ɪs ᴅᴇᴀᴛʜ-ᴠ1 ʙᴜɢ ʙᴏᴛ 
- ᴄᴏʟʟᴀʙ ᴡɪᴛʜ : D@¥id 
+ ᴄᴏʟʟᴀʙ ᴡɪᴛʜ : Immanuelシ︎🌑🌕✝️
 ✓ ʙᴜɢᴍᴇɴᴜ
 ✓ ᴏᴛʜᴇʀᴍᴇɴᴜ
 
