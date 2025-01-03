@@ -18,3 +18,14 @@ Use the bot for legitimate purposes only
 Refrain from spamming or harassing others
 Comply with WhatsApp's terms of service
 By using this bot🤖, you acknowledge that you have read, understood, and agreed to these terms
+
+<br>
+
+## **`Deployment method`**: the on panel👇👇
+https:/bot-hosting.net/?aff=1279432451084783627
+
+## Other method coming soon🔥
+
+<br>
+
+## **`Whatsapp channel`**:
