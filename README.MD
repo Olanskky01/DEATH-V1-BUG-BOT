@@ -25,3 +25,5 @@ By using this bot🤖, you acknowledge that you have read, understood, and agree
 
 <br>
 https://bot-hosting.net/?aff=1279432451084783627
+
+ https://whatsapp.com/channel/0029VaioNMmADTOAj0T6Yw2s📎 Join Our WhatsApp Channel🥺
